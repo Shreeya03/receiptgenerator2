@@ -1,0 +1,29 @@
+{
+    "name":"STATEMENT OF BUSINESS LEDGER : SALES PURCHASE : SWASTIK GROUP",
+    "Address":{
+        "line1":"M/S. SWASTIK GROUP LLC",
+        "line2":"PROP MANOJ BABAN AVHAD",
+        "line3":"B-203 PLOT NO-363 364 KALPATARU CHS",
+        "line4":"SECTOR-19 KOPARKHAIRNE NAVI MUMBAI",
+        "line5":"NAVI MUMBAI",
+        "line6":"400709",
+        "line7":"MAHARASHTRA",
+        "line8":"INDIA"
+    },
+    "period":"Sales Period : 01-APR-2022 To 31-MAR-2023",
+    "branchdet":{
+        "branch":"Branch: VASHI OFFICE",
+        "act":"A/C type: CREDIT CUSTOMER",
+        "crd":"CRD Limit: 0",
+        "unc":"Unclear Amt: 0",
+        "oth":"Other : Y",
+        "email":"Email Id: er.manojavhad@gmail.com"
+    },
+    "acc":{
+        "no":"A/C Number: 006261900006821",
+        "id":"Customer Id: 11901921",
+        "jt1":"Jt Holder 1:",
+        "jt2":"Jt Holder 2:"
+    }
+
+}
